@@ -12,7 +12,7 @@ batool 🙂
 <body>
 <h1> batool imad jurf </h1>
 
-<p>
+<p style="background-color:powderblue;">
 Academic education in 13 years, experience, general information and other in specialized subjects <br>
 
 <a href="https://www.facebook.com/batool.jurf">My facebook account</a>
